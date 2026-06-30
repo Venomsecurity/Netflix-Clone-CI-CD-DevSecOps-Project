@@ -4,7 +4,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-![Architecture Diagram](assets/arch-diag.gif)
+[![project-image.png](https://i.postimg.cc/5yfDg47X/project-image.png)](https://postimg.cc/xJFsT2SQ)
 
 
 A **complete end-to-end DevSecOps project** showcasing how to automate, secure, and monitor infrastructure and applications using modern tools — from **Terraform to Kubernetes**, **Jenkins to Trivy**, and everything in between.  
