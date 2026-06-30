@@ -1,8 +1,7 @@
 # 🎬 Netflix Clone - DevSecOps Project
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jdzF8kTtw2)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanpathakdevops)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/-harshthakur/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thakurharsh28498)
+[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/Venomsecurity)
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
@@ -91,16 +90,12 @@ This project simulates a real enterprise-grade setup where a **React-based Netfl
 | ☸️ **Part 4** | *Kubernetes Cluster Setup + Deployment* | Full app deployment in K8s |
 | 📊 **Part 5** | *Monitoring Setup* | End-to-end observability |
 
-📺 **Watch here:** [YT Playlist Link](https://youtube.com/playlist?list=PLyJzBek6WsDpKcOxL-F8rAl7FgliN9x6M&si=toDUa6Qx05LYHtbu)  
-🧾 **Read on Medium:** [Medium Blog Series Link](https://blog.stackademic.com/building-a-complete-devsecops-project-part-1-automating-aws-infrastructure-with-terraform-cloud-a51e98b95783)
-
 ---
 
 ## 🔔 Bonus Tip
 
 If you’re following along, don’t forget to:
-- 🎥 **Watch the video version** for step-by-step guidance  
-- 💼 **Tag [@Aman Pathak](https://www.linkedin.com/in/aman-devops/)** on LinkedIn when you post your progress — showcasing your DevOps achievements helps you grow professionally!
+- 💼 **Tag [@Harsh Thakur](https://www.linkedin.com/in/-harshthakur/)** on LinkedIn when you post your progress — showcasing your DevOps achievements helps you grow professionally!
 
 ---
 
@@ -108,7 +103,7 @@ If you’re following along, don’t forget to:
 
 **Connect with Me**  
 DevOps & Cloud Engineer 
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-devops/) • [YouTube](https://www.youtube.com/@aman-pathak) • [Medium](https://medium.com/@amanpathakdevops)
+🔗 [LinkedIn](https://www.linkedin.com/in/-harshthakur/) • [YouTube](https://www.youtube.com/@VenomSec) • [Medium](https://medium.com/@thakurharsh28498)
 
 ## Contributing
 We welcome contributions! If you have ideas for enhancements or find any issues, please open a pull request or file an issue.
